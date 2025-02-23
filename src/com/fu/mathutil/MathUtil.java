@@ -42,4 +42,6 @@ public class MathUtil {
             //nhân từ 2 đến n
         return product;
     }
+    
+    //hihihi loi lol gi day
 }
